@@ -1,0 +1,15 @@
+# Bí mật — không bao giờ commit
+.env
+.env.*
+!.env.example
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Phụ thuộc và build (dùng cho giai đoạn sau)
+node_modules/
+dist/
+_site/
